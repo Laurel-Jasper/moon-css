@@ -1,0 +1,19 @@
+/* GLOBAL STYLES */
+body {
+    background-color: #000;
+}
+
+/* MOON STYLE */
+.center {
+    background-color: transparent;
+    border-radius: 50%;
+    bottom: 0;
+    box-shadow: 25px 10px 0px 0px #fff;
+    left: 0;
+    height: 100px;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100px;
+}
